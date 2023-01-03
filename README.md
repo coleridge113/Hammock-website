@@ -1,3 +1,3 @@
-# Portfolio
+# Hammock
 
-This repository contains my portfolios as a Front-End Web Developer
+Repurposed the project to a single-product website lol
